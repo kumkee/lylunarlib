@@ -1,7 +1,7 @@
 
 
 ##             Lunar 2.2: A Calendar Conversion Program
-                                for
+##                                for
 ##        Gregorian Solar Calendar and Chinese Lunar Calendar
 
 Copyright (C) 1988,1989,1991,1992,2001 Fung F. Lee and Ricky Yeung
